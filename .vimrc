@@ -93,3 +93,8 @@ nnoremap <silent> <F8> :TlistToggle<CR>
 colorscheme darkblue
 
 filetype plugin on
+
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
