@@ -112,4 +112,4 @@ export GPGKEY=041BB9A9
 
 export EDITOR=/usr/bin/vim
 
-export PATH=/opt/slickedit/bin:$PATH
+source ~/.git-completion.sh
